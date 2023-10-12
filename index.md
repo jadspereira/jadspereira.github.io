@@ -27,7 +27,7 @@ O conjunto de dados "chickenweight" é um conjunto de dados padrão incluído no
 
 Neste estudo, foi explorada a aplicação da Análise de Variância (ANOVA) na análise do peso das frangos. A ANOVA é uma ferramenta estatística poderosa para comparar médias entre grupos, focando em desvendar insights importantes relacionados ao peso dessas aves.
 
-<img src="images/oncin.jpg?raw=true" />
+<img src="images/pintinhos.png?raw=true" />
 
 [Vizualizar Documento](https://drive.google.com/file/d/1hHKD_zNt9I260G05Q4i4NAMSLDWTldSA/view)
 
