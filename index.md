@@ -24,7 +24,7 @@ No Rstudio, é possível utilizar a biblioteca "rgbif" para buscar e baixar esse
 
 ---
 
-### "Análise de Variância (ANOVA) na Prática: Estudo de Peso em Galinhas com a Package 'Chicken Weight'" 
+### Análise de Variância (ANOVA) na Prática: Estudo de Peso em Galinhas com a Package 'Chicken Weight' 
 O conjunto de dados "chickenweight" é um conjunto de dados padrão incluído no R, que contém informações sobre o peso de frangos em diferentes idades e dietas.
 
 Neste estudo, foi explorada a aplicação da Análise de Variância (ANOVA) na análise do peso das frangos. A ANOVA é uma ferramenta estatística poderosa para comparar médias entre grupos, focando em desvendar insights importantes relacionados ao peso dessas aves.
