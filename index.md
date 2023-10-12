@@ -13,7 +13,7 @@ Abaixo estão meus projetos desenvolvidos.
 ---
 
 ### Distribuição Geográfica - *Panthera Onca*
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+O GBIF (Global Biodiversity Information Facility) é uma plataforma online que fornece acesso a dados de ocorrência de espécies em todo o mundo. No R, é possível utilizar a biblioteca "rgbif" para buscar e baixar esses dados. Com os dados de ocorrência da Onça Pintada na América, é possível plotar um mapa de distribuição geográfica dessa espécie na região. 
 
 <img src="images/mobility.png?raw=true" />
 
