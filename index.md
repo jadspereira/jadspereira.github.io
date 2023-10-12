@@ -4,7 +4,7 @@
 
 ### Liguagem R
 
-<img src="https://i.imgur.com/VXZJzsB.png" align="right" width="150">  <!-- imagem alinhada à direita -->
+<img src="https://i.imgur.com/VXZJzsB.png" align="right" width="100">  <!-- imagem alinhada à direita -->
 
 A linguagem R pode ser utilizada na biologia de diversas formas, tais como análise de dados de experimentos, modelagem estatística, análise de sequências de DNA e proteínas, visualização de dados, entre outras aplicações. Com a ampla variedade de pacotes disponíveis, é possível realizar desde análises simples até análises complexas em áreas como ecologia, genética, taxonomia, entre outras.
 Abaixo estão meus projetos desenvolvidos.
