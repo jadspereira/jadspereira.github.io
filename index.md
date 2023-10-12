@@ -17,7 +17,7 @@ O GBIF (Global Biodiversity Information Facility) é uma plataforma online que f
 
 <img src="images/oncin.jpg?raw=true" />
 
-[View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
+[Vizualizar documento](https://drive.google.com/file/d/1_Ge6xl6KVcIt5T7N90uEyrYD__mbh53k/view)
 
 ---
 
