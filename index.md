@@ -4,10 +4,10 @@
 
 ### Liguagem R
 
-Aqui eu vou adicionar uma descrição sobre o uso da linguagem R na Biologia. 
+A linguagem R pode ser utilizada na biologia de diversas formas, tais como análise de dados de experimentos, modelagem estatística, análise de sequências de DNA e proteínas, visualização de dados, entre outras aplicações. Com a ampla variedade de pacotes disponíveis, é possível realizar desde análises simples até análises complexas em áreas como ecologia, genética, taxonomia, entre outras.
 Abaixo estão meus projetos desenvolvidos.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+<img src="https://ibb.co/YWgSN3H" align="right" width="300">  <!-- imagem alinhada à direita -->
 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
