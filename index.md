@@ -1,10 +1,11 @@
-## Selected projects in data science, machine learning and NLP
+## Análise de Dados Biológicos com Linguagem R
 
 ---
 
-### Deep NLP for hate speech detection
+### Liguagem R
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Aqui eu vou adicionar uma descrição sobre o uso da linguagem R na Biologia. 
+Abaixo estão meus projetos desenvolvidos.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
@@ -12,7 +13,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
+### Distribuição Geográfica - *Panthera Onca*
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
 <img src="images/mobility.png?raw=true" />
