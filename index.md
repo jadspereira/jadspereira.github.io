@@ -16,6 +16,7 @@ Abaixo estão meus projetos desenvolvidos.
 O GBIF (Global Biodiversity Information Facility) é uma plataforma online que fornece acesso a dados de ocorrência de espécies em todo o mundo. No R, é possível utilizar a biblioteca "rgbif" para buscar e baixar esses dados. Com os dados de ocorrência da Onça Pintada na América, é possível plotar um mapa de distribuição geográfica dessa espécie na região. 
 
 <img src="images/oncin.jpg?raw=true" />
+
 [View code on Colab](https://colab.research.google.com/drive/1eMRq-WAtegW5_J5OhTPWoeB3QNf64D-A?usp=sharing)
 
 ---
