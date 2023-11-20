@@ -35,12 +35,13 @@ Neste estudo, foi explorada a aplicação da Análise de Variância (ANOVA) na a
 
 ---
 
-### Implementing a custom data collection pipeline using Scrapy and MongoDB
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+### Vizualização de expressão gênica (BRCA1 e BRCA2) utilizando ggplot2
+A visualização da expressão gênica, representada pelo método Fragments Per Kilobase of transcript per Million mapped reads (FPKM), desempenha um papel crucial na análise genômica. A utilização da biblioteca ggplot2 em R oferece uma abordagem eficiente para criar gráficos que elucidam padrões de expressão gênica.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/master/projects/mongodb_crawler/spiders)
+<img src="images/pintinhos.png?raw=true" />
+
+[Vizualizar Documento](https://rpubs.com/jadespereira/1116633)
 
 ---
 
