@@ -50,9 +50,7 @@ A visualização da expressão gênica, representada pelo método Fragments Per 
 
 
 - [Linkedin](https://www.linkedin.com/in/jade-santiago-4b1799214)
-- [E-mail](mailto:jadesantiagopereira55@gmail.com)
 ---
- -->
  
 <!--  ### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
 The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
