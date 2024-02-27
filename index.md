@@ -48,13 +48,5 @@ A visualização da expressão gênica, representada pelo método Fragments Per 
 
 ## Outras formas de contato e redes sociais
 
-
 - [Linkedin](https://www.linkedin.com/in/jade-santiago-4b1799214)
----
 
-
-
-
-
----
- -->
