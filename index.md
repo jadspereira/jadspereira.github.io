@@ -39,6 +39,7 @@ Neste estudo, foi explorada a aplicação da Análise de Variância (ANOVA) na a
 A visualização da expressão gênica, representada pelo método Fragments Per Kilobase of transcript per Million mapped reads (FPKM), desempenha um papel crucial na análise genômica. A utilização da biblioteca ggplot2 em R oferece uma abordagem eficiente para criar gráficos que elucidam padrões de expressão gênica como utilizado nesta análise, que visa observar os níveis de expressão gênica em FPKM em tecidos com ausência e presença de tumores.
 
 <img src="images/expre_gen.png?raw=true" />
+
 [Vizualizar Documento](https://rpubs.com/jadespereira/1116633)
 
 ---
